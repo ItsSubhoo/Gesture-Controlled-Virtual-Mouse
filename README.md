@@ -22,8 +22,8 @@ This project utilizes the webcam to track hand movements in real-time and transl
 
 1. Clone the repository
 ```bash
-git clone <YOUR-REPO-URL>
-cd <YOUR-REPO-NAME>
+git clone https://github.com/ItsSubhoo/Gesture-Controlled-Virtual-Mouse.git
+cd Gesture-Controlled-Virtual-Mouse
 ```
 2. Install dependencies
 ```bash
