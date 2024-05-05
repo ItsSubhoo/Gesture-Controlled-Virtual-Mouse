@@ -1,3 +1,4 @@
+
 # Gesture Controlled Virtual Mouse with OpenCV and PyAutoGUI
 A virtual mouse controller using computer vision, MediaPipe, and PyAutoGUI to track hand movements and interact with a computer without a physical mouse.
 
@@ -49,5 +50,9 @@ pip install opencv-python mediapipe pyautogui numpy
 -    indexup and midup: Check whether the index and middle fingers are raised.
   -   Cursor movement logic: Translates finger positions to screen coordinates.
   -  Click detection: Checks the distance between the index and middle fingers to determine when to click.
+
 ## Contributions
 Contributions are welcome. If you would like to contribute, please fork the repository and submit a pull request. Issues and suggestions are also welcome
+
+## Author
+This project is maintained by me Subhajit Lai. You can contact me via email: iamsubhajitlai@gmail.com
