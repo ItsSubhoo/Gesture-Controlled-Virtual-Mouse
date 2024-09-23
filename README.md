@@ -13,7 +13,7 @@ This project utilizes the webcam to track hand movements in real-time and transl
 - Getting Started
 
 ## Prerequisites
-- Python 3.x
+- Python 3.7
 - OpenCV
 - MediaPipe
 - PyAutoGUI
